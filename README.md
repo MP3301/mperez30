@@ -22,7 +22,7 @@ My name is Michael  and I'm a Senior software developer
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/mperez30/mperez30">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mperez30&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mperez30,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/mperez30/mperez30">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Michael's GitHub Stats" />
