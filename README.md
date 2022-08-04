@@ -1,4 +1,5 @@
-[![header](https://github.com/mperez30/assets/blob/master/banner.png)(www.google.com)]
+[![Rebelchris
+header](https://github.com/mperez30/assets/blob/master/banner.png)](https://daily-dev-tips.com)
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
