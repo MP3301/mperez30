@@ -1,4 +1,4 @@
-<img align='right' src="https://cdn.dribbble.com/users/891352/screenshots/2569237/hex-a-portal.gif" width="230">
+<img align='right' src="https://i.pinimg.com/originals/ac/0d/27/ac0d2749e5163da9db7ad5ba717273bb.gif" width="230">
 
 ```javascript
 const Card = {
